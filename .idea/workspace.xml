@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17a28f24-c362-4a25-a3e4-80d28ddac3eb" name="Default Changelist" comment="Fix frontend commit - remove git">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_json_processing_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCTracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.json-api-1.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/GetNextTripsForStop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/GetNextTripsForStopAllRoutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/GtfsStops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Route.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/RouteDirection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Routes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Trip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Trips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/resources/OCTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/routesForStop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/GetNextTripsForStop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/GetNextTripsForStopAllRoutes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/GtfsStop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/GtfsStops.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/Route.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/RouteDirection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/RouteForStop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/Routes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/Trip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/model/Trips.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/resources/OCTracker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/routesForStop.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nS9Nj4ybeRSKAFK0eK7PmyEDJ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OCTracker">
+    <configuration name="OCTracker" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="OCTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.resources.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.resources.OCTracker" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_30_OCTracker" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56781" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OCTracker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17a28f24-c362-4a25-a3e4-80d28ddac3eb" name="Default Changelist" comment="" />
+      <created>1611372586380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611372586380</updated>
+      <workItem from="1611372588483" duration="9229000" />
+      <workItem from="1611459418933" duration="725000" />
+      <workItem from="1611460765128" duration="3004000" />
+      <workItem from="1642359333908" duration="99278000" />
+      <workItem from="1647096497882" duration="216000" />
+      <workItem from="1655318877970" duration="3168000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fix frontend commit - remove git">
+      <created>1656902506468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656902506468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/main/frontend" />
+    </ignored-roots>
+    <MESSAGE value="Fix frontend commit - remove git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix frontend commit - remove git" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656900005064">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1656900005064" />
+    <state x="434" y="127" key="CommitChangelistDialog2" timestamp="1656902505534">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1656902505534" />
+    <state width="1638" height="361" key="GridCell.Tab.0.bottom" timestamp="1656900675219">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675219" />
+    <state width="1638" height="361" key="GridCell.Tab.0.bottom/0.23.1680.989@0.23.1680.989" timestamp="1656900386599" />
+    <state width="1638" height="361" key="GridCell.Tab.0.center" timestamp="1656900675217">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675217" />
+    <state width="1638" height="361" key="GridCell.Tab.0.center/0.23.1680.989@0.23.1680.989" timestamp="1656900386597" />
+    <state width="1638" height="361" key="GridCell.Tab.0.left" timestamp="1656900675216">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675216" />
+    <state width="1638" height="361" key="GridCell.Tab.0.left/0.23.1680.989@0.23.1680.989" timestamp="1656900386596" />
+    <state width="1638" height="361" key="GridCell.Tab.0.right" timestamp="1656900675218">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675218" />
+    <state width="1638" height="361" key="GridCell.Tab.0.right/0.23.1680.989@0.23.1680.989" timestamp="1656900386598" />
+    <state width="1638" height="361" key="GridCell.Tab.1.bottom" timestamp="1656900675221">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675221" />
+    <state width="1638" height="361" key="GridCell.Tab.1.bottom/0.23.1680.989@0.23.1680.989" timestamp="1656900386219" />
+    <state width="1638" height="361" key="GridCell.Tab.1.center" timestamp="1656900675220">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675220" />
+    <state width="1638" height="361" key="GridCell.Tab.1.center/0.23.1680.989@0.23.1680.989" timestamp="1656900386218" />
+    <state width="1638" height="361" key="GridCell.Tab.1.left" timestamp="1656900675220">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675220" />
+    <state width="1638" height="361" key="GridCell.Tab.1.left/0.23.1680.989@0.23.1680.989" timestamp="1656900386217" />
+    <state width="1638" height="361" key="GridCell.Tab.1.right" timestamp="1656900675221">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675221" />
+    <state width="1638" height="361" key="GridCell.Tab.1.right/0.23.1680.989@0.23.1680.989" timestamp="1656900386219" />
+    <state width="1638" height="361" key="GridCell.Tab.2.bottom" timestamp="1656900675223">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675223" />
+    <state width="1638" height="361" key="GridCell.Tab.2.bottom/0.23.1680.989@0.23.1680.989" timestamp="1656900386225" />
+    <state width="1638" height="361" key="GridCell.Tab.2.center" timestamp="1656900675222">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675222" />
+    <state width="1638" height="361" key="GridCell.Tab.2.center/0.23.1680.989@0.23.1680.989" timestamp="1656900386222" />
+    <state width="1638" height="361" key="GridCell.Tab.2.left" timestamp="1656900675222">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675222" />
+    <state width="1638" height="361" key="GridCell.Tab.2.left/0.23.1680.989@0.23.1680.989" timestamp="1656900386220" />
+    <state width="1638" height="361" key="GridCell.Tab.2.right" timestamp="1656900675223">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="361" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1656900675223" />
+    <state width="1638" height="361" key="GridCell.Tab.2.right/0.23.1680.989@0.23.1680.989" timestamp="1656900386224" />
+    <state x="349" y="164" key="SettingsEditor" timestamp="1656902853454">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="349" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1656902853454" />
+    <state x="319" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1655410968836">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state x="419" y="305" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1647096542440" />
+    <state x="319" y="238" key="com.intellij.ide.util.TipDialog/0.23.1280.740@0.23.1280.740" timestamp="1655410968836" />
+    <state x="506" y="282" width="667" height="486" key="find.popup" timestamp="1656900320245">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="506" y="282" width="667" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1656900320245" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/resources/OCTracker.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/resources/OCTracker.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/resources/OCTracker.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/resources/OCTracker.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/resources/OCTracker.java</url>
+          <line>180</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
