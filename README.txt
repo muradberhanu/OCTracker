@@ -7,16 +7,16 @@ When app is running, just type in the search bar and it will filter stops automa
 Then, select the stop you want, then the route, then it will show the bus times
 
 Initial screen:
-https://user-images.githubusercontent.com/25333593/177207095-5ae05792-023d-4627-8060-e1ebcf50bc6c.png
+![](https://user-images.githubusercontent.com/25333593/177207095-5ae05792-023d-4627-8060-e1ebcf50bc6c.png)
 
 Search filter:
-https://user-images.githubusercontent.com/25333593/177207101-4631f3f9-640a-429a-ad45-16f6c49af14a.png
+![](https://user-images.githubusercontent.com/25333593/177207101-4631f3f9-640a-429a-ad45-16f6c49af14a.png)
 
 Selected stop:
-https://user-images.githubusercontent.com/25333593/177207112-64a4e4ee-9761-4522-9553-8283bf71089c.png
+![](https://user-images.githubusercontent.com/25333593/177207112-64a4e4ee-9761-4522-9553-8283bf71089c.png)
 
 Selected route, showing bus times:
-https://user-images.githubusercontent.com/25333593/177207117-170c990a-9061-461a-b1a5-3fab415c19be.png
+![](https://user-images.githubusercontent.com/25333593/177207117-170c990a-9061-461a-b1a5-3fab415c19be.png)
 
 
 ////////
