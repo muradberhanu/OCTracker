@@ -2,83 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17a28f24-c362-4a25-a3e4-80d28ddac3eb" name="Default Changelist" comment="Fix frontend commit - remove git">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_json_processing_1_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OCTracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.json-api-1.1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/GetNextTripsForStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/GetNextTripsForStopAllRoutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/GtfsStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Route.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/RouteDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Routes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Trip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/Trips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/resources/OCTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/routesForStop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/GetNextTripsForStop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/GetNextTripsForStopAllRoutes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/GtfsStop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/GtfsStops.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/Route.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/RouteDirection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/RouteForStop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/Routes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/Trip.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/model/Trips.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/resources/OCTracker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/public/routesForStop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +174,7 @@
       <workItem from="1611460765128" duration="3004000" />
       <workItem from="1642359333908" duration="99278000" />
       <workItem from="1647096497882" duration="216000" />
-      <workItem from="1655318877970" duration="3168000" />
+      <workItem from="1655318877970" duration="3357000" />
     </task>
     <task id="LOCAL-00001" summary="Fix frontend commit - remove git">
       <created>1656902506468</created>
@@ -350,6 +274,10 @@
     </state>
     <state x="419" y="305" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1647096542440" />
     <state x="319" y="238" key="com.intellij.ide.util.TipDialog/0.23.1280.740@0.23.1280.740" timestamp="1655410968836" />
+    <state x="655" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1656903434561">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="655" y="266" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1656903434561" />
     <state x="506" y="282" width="667" height="486" key="find.popup" timestamp="1656900320245">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
